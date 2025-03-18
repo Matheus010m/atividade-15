@@ -1,4 +1,5 @@
 arquivo 3
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidente ut labore et dolore magna aliqua.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidente ut labore et dolore magna aliqua.
@@ -7,3 +8,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 alteração 2 de isadora 
 boa tarde
+=======
+>>>>>>> 04d480ba338e28fd77186c0ad196ff5fd9b95d06
